@@ -1,0 +1,54 @@
+body{
+	background: url(http://cdn5.colorir.com/desenhos/color/201145/6f783056825851e1a7e10a6cbc223f9c.png);
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.conteudo{
+	position: relative;
+	width: 100%;
+	height: 100vh;
+	background-color: #00C5CD;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.casa{
+	width: 600px;
+	height: 500px;
+	background-color: #CD9B9B;
+	position: relative;
+}
+
+.janela{
+    width:95px;
+    height:117px;
+	background-color: purple;
+	position: absolute;
+}
+.j1{
+	top: 20px;
+	left: 60px;
+}
+.j2{
+	top: 20px;
+	left: 180px;
+}
+.j3{
+	top: 20px;
+	left: 310px;
+}
+.j4{
+	top: 20px;
+	left: 450px;
+}
+.porta{
+	width:120px;
+    height:170px;
+	background-color: #8B2252;
+	position: absolute;
+	bottom: 0;
+	left: 300px;
+}
